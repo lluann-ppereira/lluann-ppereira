@@ -1,17 +1,10 @@
+
+
 <div align="center">
 
-# Olá, eu sou Luan Pereira 👋
-
-### Desenvolvedor Full Stack | Freelancer
-
-Sou um Desenvolvedor Full Stack brasileiro com experiência como freelancer no desenvolvimento de aplicações web e mobile.
-
-Trabalho com tecnologias modernas no desenvolvimento de frontend, backend, bancos de dados e infraestrutura, buscando criar soluções funcionais, responsivas e eficientes.
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/lluann-ppereira)
-
+<p align="center">
+  <img src="./assets/github-banner.gif" width="100%" alt="Luan de Oliveira - Full Stack Developer">
+</p>
 </div>
 
 ---
